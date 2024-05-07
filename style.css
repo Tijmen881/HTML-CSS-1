@@ -1,0 +1,68 @@
+p {
+  font-family: Bookman, URW Bookman L, serif;
+  padding: 8px;
+  margin: 0px;
+}
+
+h1 {
+  font-family: Bookman, URW Bookman L, serif;
+}
+
+a {
+  color: blue;
+}
+
+body {
+  background-image: url(https://images0.persgroep.net/rcs/rFaoNDKj7Z8_zJ0kxBfF1-2G118/diocontent/167457290/_fitwidth/694/?appId=21791a8992982cd8da851550a453bd7f&quality=0.8&desiredformat=webp);
+}
+
+ul {
+  display: flex;
+  justify-content: center;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+li {
+  list-style-type: none;
+  border-color: red;
+  margin-right: 15px;
+}
+
+div {
+  background-color: white;
+  border-radius: 12px;
+  max-width: 50%;
+  width: fit-content;
+}
+
+.topnav {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+
+#tabel {
+  background-color: white;
+  border-radius: 12px;
+  width: 100%;
+  margin-left: 100px;
+}
+
+#kop {
+  background-color: lightblue;
+}
+
+table {
+  width: 500px;
+}
+
+.right {
+  float: right;
+  width: 50%;
+}
+
+iframe {
+  float: left;
+}
